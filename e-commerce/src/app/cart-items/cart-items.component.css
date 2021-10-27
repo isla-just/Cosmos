@@ -1,0 +1,115 @@
+body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    overflow:auto;
+    text-decoration: none;
+}
+
+.item-card{
+    width:85%;
+    margin-left:10%;
+    height:40vh;
+    background-color:#fafafa;
+    margin-top: 40px;
+    padding:30px
+}
+
+.promo{
+    width:85%;
+    margin-right:10%;
+    height:auto;
+    background-color:#fafafa;
+    margin-top: 40px;
+    padding:30px
+}
+
+.image{
+    width:33%;
+    height:34vh;
+    background-color: rgba(190, 190, 190, 0.178);
+    float: left;
+}
+
+h1{
+    font-weight: 600;
+    color:#4d4d4d;
+    font-size: 30px;
+    margin-left:40px;
+    width:100%;
+    margin-top:30px;
+}
+
+.line{
+    width:100%;
+    margin:auto;
+    background-color: #474747;
+    height: 1px;
+    border-radius: 50px;
+    margin-top:20px;
+    margin-left: 40px;
+}
+
+.half1{
+    margin-top: 20px;
+    width: 40%;
+    line-height: 2;
+    color:#4747478e;
+    float:left;
+    margin-left: 40px;
+}
+
+.half2{
+    margin-top: 20px;
+    width: 40%;
+    line-height: 2;
+    color:#474747;
+    float:left;
+
+}
+
+.price{
+
+    width:100%;
+    color: #474747;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-left:610px;
+}
+
+.join{
+    background-color:#00000026;
+    color: white;
+    width:70%;
+    padding:10px;
+    border: none;
+    margin-top:15px;
+    float: left;
+}
+
+.join::placeholder{
+    color:white;
+}
+
+.join-btn{
+    background-color:#363636;
+    width:30%;
+    padding:10px;
+    float: left;
+    color:#ffffff;
+    text-align: center;
+    margin-top:15px;
+}
+
+.button{
+    width:100%;
+    padding:10px;
+    background-color: #292929;
+    color: white;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top:40px;
+    font-size: 15px;
+    cursor: pointer;
+}

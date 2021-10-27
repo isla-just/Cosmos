@@ -1,0 +1,226 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name":"Anti-Ageing Complex - Peptides",
+            "skintypes":["combination", "dry", "oily"],
+            "price":"R550",
+            "type":"serum",
+            "stock":50,
+            "size":"30ml",
+            "description":"A blend of highly effective anti-ageing peptides, that combat the signs of ageing",
+            "ingredients":"Peptide blend, increases the production of collagen and has the ability to assist in restoring damaged skin. Copper Tripeptide, increases the production of collagen and elastin. Has the ability to promote the production of glycosaminoglycans, while providing powerful anti-inflammatory and anti-oxidant benefits.",
+            "brand":"Skin Functional",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2376359/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2376361/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2376362/original.jpg"]
+        },
+
+        {
+            "id":"2",
+            "name":"Bio Retinoid Youth Serum",
+            "skintypes":["dry", "oily", "combination", "sensitive"],
+            "price":"R1075",
+            "type":"oil",
+            "stock":20,
+            "size":"30ml",
+            "description":"Powered by our plant-derived alternative to retinol, Bidens Pilosa, this new-formula evening oil is proven to visibly reduce the appearance of fine lines and wrinkles after 28 days* while being designed to help limit irritation, making it suitable for sensitive skin.",
+            "ingredients":"With 99% natural-origin ingredients, we’ve included Organic Rosehip Oil (rich in Omega 3 and 6) to help strengthen the skin’s moisture barrier, improve firmness and suppleness; while Sea Buckthorn Oil helps nourish, reduce roughness, and combat the dulling effects of dryness or dehydration, for a healthier-looking complexion.",
+            "brand":"REN clean skincare",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2313787/original.jpg", "https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2313788/original.jpg"]
+        },
+
+        {
+            "id":"3",
+            "name":"Smart™ SPF 15 Custom-Repair Moisturiser",
+            "skintypes":["dry", "sensitive"],
+            "price":"R315",
+            "type":"moisturiser",
+            "stock":80,
+            "size":"15ml",
+            "description":"Our smart daytime moisturiser targets all major signs of aging. Protects with SPF.",
+            "ingredients":"De-aging, oil-free formula with Clinique Smart™ hydration technology helps skin attract and retain moisture. Visibly improves the appearance of fine lines and wrinkles, and brightens for a fresh, firm, radiant look. Delivers essential defense against UV rays with broad-spectrum protection - a critical first step in preventing damage. Helps keep skin looking younger, longer. Dermatologist Tested. Ophthalmologist Tested.",
+            "brand":"Clinique",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2369339/original.jpg"]
+        },
+
+        {
+            "id":"4",
+            "name":"Hyaluronic Acid 1% Serum",
+            "skintypes":["dry", "sensitive", "combination"],
+            "price":"R250",
+            "type":"serum",
+            "stock":100,
+            "size":"30ml",
+            "description":"Super-hydrating serum, infused with 1% hyaluronic acid. Deeply hydrates dry skin, soothes rough patches, flaking and dryness. Skin feels super soft and intensely hydrated.",
+            "ingredients":"as stated on box",
+            "brand":"Skin Republic",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358173/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358177/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358174/original.jpg"]
+        },
+
+        {
+            "id":"5",
+            "name":"Superfood Fruit Vinegar Liquid Glow ",
+            "skintypes":["dry", "sensitive", "combination","oily"],
+            "price":"R635",
+            "type":"toner",
+            "stock":10,
+            "size":"145ml",
+            "description":"Give your skin its recommended daily serving of fruit with this brightening toner. Mild enough for twice-daily use, this glow-boosting toner leaves the skin feeling balanced and looking radiant. ",
+            "ingredients":"Infused with glow-getting AHAs derived from Apple Vinegar, Apricot and Peach, the gently exfoliating formula reveals a radiant, smoother-looking complexion with improved clarity and texture. This refreshing toner removes every trace of visible pollution and grime and helps minimise the appearance of pores. A natural Prebiotic helps support and maintain the skin’s microbiome whilst Prickly Pear Cactus nourishes the skin with vitamin and antioxidant-rich nutrients.",
+            "brand":"Elemis",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362835/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362839/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362837/original.jpg"]
+        },
+
+        {
+            "id":"6",
+            "name":"Superfood Matcha Eye Dew",
+            "skintypes":["dry", "sensitive", "combination","oily"],
+            "price":"R690",
+            "type":"moisturiser",
+            "stock":10,
+            "size":"15ml",
+            "description":"Wake up lacklustre, tired-looking skin around the eye area with this refreshing skincare essential. Lightweight and easily absorbed, it layers beautifully underneath or over makeup, making it the perfect on-the-go solution for a wide-awake, revived appearance. ",
+            "ingredients":"The Matcha-infused, cooling eye gel is truly your cup of tea; the refreshing formula provides immediate and continuous hydration to the eye contour area throughout the day, helping to reduce puffiness and boost brightness. Formulated with Kiwi and Honeydew Melon, this treatment nourishes the delicate skin around the eyes whilst helping to reduce the visible signs of fatigue. A natural prebiotic helps to support and maintain the skin’s delicate microbiome, the skin’s very first defence barrier.",
+            "brand":"Elemis",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362856/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362855/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2362854/original.jpg"]
+        },
+
+        {
+            "id":"7",
+            "name":"Retinoid Complex 1% Serum",
+            "skintypes":["dry", "combination","oily"],
+            "price":"R250",
+            "type":"serum",
+            "stock":160,
+            "size":"30ml",
+            "description":"Velvety serum infused with 1% retinoid complex in squalane helps reduce the visible signs of aging. Use on its own as a daily treatment or to boost the results of a Skin Republic Face Mask.",
+            "ingredients":"As stated on box",
+            "brand":"Skin Republic",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358161/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358160/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2358163/original.jpg"]
+        },
+
+        {
+            "id":"8",
+            "name":"Anti-Blemish Solutions™ All-Over Clearing Treatment",
+            "skintypes":["dry", "combination","oily"],
+            "price":"R150",
+            "type":"cleanser",
+            "stock":160,
+            "size":"15ml",
+            "description":"This lightweight, treated formula is the third step in our Anti-Blemish Solutions Clear Skin system.The best way to control breakouts is a constant routine that does not irritate. Every step of the Clinique Anti-Blemish Solutions Clear Skin System has a purpose: cleanse, exfoliate, treat. All 3 steps work together for powerful results in just 3 days. With constant use twice a day, the results continue to improve.",
+            "ingredients":"Salicylic acid and acetylglucosamine are exfoliants that fight acne and support the elimination of dead cells that can clog pores. Help control the spread of acne-causing agents with benzoyl peroxide and other anti-breakout ingredients.",
+            "brand":"Clinique",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2344107/original.jpg"]
+        },
+
+        {
+            "id":"9",
+            "name":"ANTU Radiance Mist",
+            "skintypes":["dry", "combination","oily","sensitive"],
+            "price":"R1395",
+            "type":"toner",
+            "stock":16,
+            "size":"100ml",
+            "description":"A light water-based mist that mixes with shaking and produces an invigorating and hydrating mist.",
+            "ingredients":"As stated on box",
+            "brand":"Codex Beauty Labs",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2290198/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2290199/original.jpg"]
+        },
+
+        {
+            "id":"11",
+            "name":"Ready Steady Glow Daily AHA Tonic Supersize",
+            "skintypes":["dry", "combination","sensitive","oily"],
+            "price":"R995",
+            "type":"toner",
+            "stock":100,
+            "size":"500ml",
+            "description":"Double your glow, our bigger, limited edition, exfoliating tonic.",
+            "ingredients":"Our super-effective AHA + BHA skin-resurfacing tonic is a REN Clean Skincare bestseller. This cult-status tonic exfoliates, brightens, tightens and hydrates for a smooth, even and energised complexion that's all glow without the irritation. Formulated with gentle, yet powerful Lactic Acid (AHA) and Salicin (BHA), this skin-resurfacing tonic is formulated for daily use, brightening skin and bringing energy back to pollution, city living or tired looking skin. Lactic Acid effectively exfoliates the skin surface, breaking up dead cells and replacing moisture, without causing irritation. Salicin from Willow Bark helps dissolve in-pore build up, helping pores appear tighter and skin appear smoother every day.",
+            "brand":"REN clean skincare",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2399736/original.jpg"]
+        },
+        {
+            "id":"12",
+            "name":"Sun Guardians Value Pack",
+            "skintypes":["dry", "combination","sensitive","oily"],
+            "price":"R1050",
+            "type":"moisturiser",
+            "stock":10,
+            "size":"50ml",
+            "description":"Fights UV by day. Slays pollution by night. Because SKOON. fans keep asking for this much anticipated daily essential, we have perfected our double defense protective sunscreen + night repair serum: taking care of harmful sunlight (UVA + UVB), big city pollution, smoke, smog and other kinds of environmental stressors.",
+            "ingredients":"Meet our new sun guardian, SUNNYBONANI Day defense sun cream SPF20, a natural, mineral based sunscreen for face care inspired in general by the sun-baked African content, and more specific by sun-loving South Africans. SUNNYBONANI is extremely lightweight and oh-so-perfect to add as the very last step of your skincare routine in the morning.  Anti-pollution overnight serum, with eight restorative natural actives and Vitamin B3.",
+            "brand":"SKOON.",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2376372/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2376373/original.jpg"]
+        },
+
+        {
+            "id":"13",
+            "name":"clear start breakout clearing foaming wash",
+            "skintypes":["combination","sensitive","oily"],
+            "price":"R540",
+            "type":"cleanser",
+            "stock":150,
+            "size":"295ml",
+            "description":"This breakout-fighting, foaming wash clears away dead skin cells, dirt and excess oils that clog pores and cause breakouts. Use on your face, back, neck... wherever skin requires deep cleaning and pore clearing for fewer breakouts.",
+            "ingredients":"Salicylic Acid dives deep into pores, clearing dead skin cells and trapped oils to help wipe out existing and future breakouts. Formulated with 8 botanicals including Tea Tree, Lavender and Camellia Sinensis, known to gently soothe and calm irritated skin. Orange Peel Extract revives, energizes, and refreshes.",
+            "brand":"Clear Start",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2300555/original.jpg", "https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2300557/original.jpg"]
+        },
+
+        {
+            "id":"14",
+            "name":"Rosa Centifolia™ Cleansing Gel",
+            "skintypes":["combination","sensitive","oily"],
+            "price":"R575",
+            "type":"cleanser",
+            "stock":3,
+            "size":"150ml",
+            "description":"A refreshing facial wash to help cleanse, soften and tone with a non-drying formula that helps keep skin’s moisture level and protective barrier intact.",
+            "ingredients":"Cooling Aloe Vera, rich in vitamins and minerals that support the skin’s regenerative process, meets the toning, purifying, and aromatherapeutic benefits of Rosa Centifolia Flower Water for a daily morning and evening cleanser that won’t cause dryness or dehydration.",
+            "brand":"REN Clean Skincare",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2298918/original.jpg"]
+        },
+
+        {
+            "id":"15",
+            "name":"Summertime Limited Edition Daily AHA Tonic",
+            "skintypes":["combination","sensitive","oily", "dry"],
+            "price":"R700",
+            "type":"toner",
+            "stock":5,
+            "size":"250ml",
+            "description":"Get the ultimate refreshing summer glow, with NEW Summer Limited Edition Daily AHA Tonic.",
+            "ingredients":"With brightening AHAs and BHAs combined with farm-to-formula British-sourced certified Organic Cucumber. 87% said the product was refreshing on the skin* while 83% agreed skin looked brighter with a healthy glow immediately after use* ",
+            "brand":"REN Clean Skincare",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2298920/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2298919/original.jpg"]
+        },
+
+        {
+            "id":"16",
+            "name":"Avocado Facial Serum",
+            "skintypes":["combination","oily", "dry"],
+            "price":"R149",
+            "type":"serum",
+            "stock":15,
+            "size":"50ml",
+            "description":"This rich serum is easily absorbed into the skin. Avocado Serum is suitable for dry and dull-looking skin.",
+            "ingredients":"This rich serum is easily absorbed into the skin. It contains a high concentration of unrefined avocado oil, which is an unrivaled ingredient for combating dry skin. Avocado oil is rich in Vitamins A, D and E, which make the skin feel supple. This serum is a superb moisturiser as it increases collagen production, and helps to fight the appearance of ageing skin. This product should only be used in small quantities at night and rinsed off in the morning.",
+            "brand":"CORIUM Skincare",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2274925/original.jpg","https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2274924/original.jpg"]
+        },
+
+        {
+            "id":"17",
+            "name":"Pigmentbio Sensitive Areas",
+            "skintypes":["combination","oily", "dry"],
+            "price":"R230",
+            "type":"moisturiser",
+            "stock":150,
+            "size":"75ml",
+            "description":"Pigmentbio Sensitive Areas unified and brightened skin tone even for the most delicate areas.The first skincare product specifically designed to treat hyperpigmentation of sensitive and intimate areas (groin, elbows & knees).",
+            "ingredients":"Helps reduce the appearance of dark spots in areas of friction and prevents them from appearing. Soothes and reduces colour variations (redness) in sensitive and intimate areas. Brightens and evens out the skin with lasting results",
+            "brand":"BIODERMA",
+            "image":["https://assets.superbalistcdn.co.za/500x720/filters:quality(75):format(jpg)/2021086/original.jpg"]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    overflow:auto;
+}
+
+a:hover{
+text-decoration: none
+}
+
+/* .container-fluid{
+    width:100%;
+    height:100vh;
+    background-image:url(../../assets/header1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+} */
+
+.headerImg{
+    width:100%;
+    height:100vh;
+    background-image:url(../../assets/header1.png);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    z-index: 0;
+    overflow:hidden;
+}
+
+.headerImg3{
+    width:100%;
+    height:100vh;
+    background-image:url(../../assets/header3.png);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    z-index: 0;
+    overflow:hidden;
+}
+
+.headerImg2{
+    width:100%;
+    height:100vh;
+    background-image:url(../../assets/header2.png);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    z-index: 0;
+    overflow:hidden;
+}
+h1{
+    color:white;
+    margin-top: 25vh;
+    font-size: 70px;
+    font-weight: 700;
+}
+
+p{
+    color:white;
+    margin-top: 40px;
+    line-height:25px;
+    padding: 0;
+}
+
+.button{
+    background-color: #1a1a1a;
+    color:white;
+    padding:10px;
+    height:auto;
+   letter-spacing: 4px;
+   margin-top:35px;
+}
+
+.button:hover{
+    border: 2px solid black;
+    color:black;
+    background-color: transparent;
+    margin-top:32px;
+}
+
+.dot-container{
+    width: 5%;
+    height:20px;
+    margin-top:-50px;
+    margin-left:47.5%;
+}
+
+.dot{
+    width:12px;
+    height:12px;
+    background-color: rgba(255, 255, 255, 0.548);
+    border-radius: 50px;
+    float:left;
+    margin-left:20px
+}
+
+.active{
+    background-color:white;
+}
+
+.describe-container{
+    width:50%;
+    height:100vh;
+
+    margin-top:-90vh;
+float:right;
+}
+
+.more{
+    margin-top:470px;
+    margin-left:130px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.more:hover{
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.more1{
+    margin-top:-170px;
+    margin-left:540px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.more1:hover{
+    font-size: 15px;
+    line-height: 20px;
+}
+
+
+.more3{
+    margin-top:170px;
+    margin-left:770px;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.more3:hover{
+    font-size: 15px;
+    line-height: 20px;
+}

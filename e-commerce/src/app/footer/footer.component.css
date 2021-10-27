@@ -1,0 +1,63 @@
+body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col, .container-fluid{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    overflow:auto;
+}
+
+.container{
+    width:100%;
+    height:auto;
+    background-color: #2e2e2e;
+    padding:0;
+    margin:0;
+}
+
+h3{
+    color:white;
+    font-size: 12px;
+    letter-spacing:2px;
+    font-weight: 400;
+margin-left: 90px;
+}
+
+.line{
+    background-color:white;
+    width:80%;
+    margin-left: 90px;
+    height:1px;
+    margin-top:10px
+}
+
+.join{
+    background-color:#e2e2e226;
+    color: white;
+    width:60%;
+    padding:10px;
+    margin-left: 90px;
+    border: none;
+    margin-top:15px;
+    float: left;
+}
+
+.join::placeholder{
+    color:white;
+}
+
+.join-btn{
+    background-color:#cacaca;
+    width:20%;
+    padding:10px;
+    float: left;
+    color:#414141;
+    text-align: center;
+    margin-top:15px;
+}
+
+.sec1{
+    margin-top:15px;
+    width:20%;
+    color: white;
+    float:left;
+    line-height: 2;
+}

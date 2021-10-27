@@ -1,0 +1,54 @@
+<div>
+    <app-alt-nav></app-alt-nav>
+    
+    <div class="image-container"><img src={{image}}/></div>
+
+    <div class="details-container">
+         <h1>{{name}}</h1>
+         <p class="brand">{{brand}}</p>
+        
+         <p class="details">{{description}}</p>
+
+         <p class="details ingredients" style="cursor:pointer"><strong>Read ingredients</strong></p>
+         <p class="details showIngredients">{{ingredients}}</p>
+
+         <h3 class="price">{{price}}</h3>
+
+         <div class="line"></div>
+
+         <div style="width:33%; float:left;">
+                 <p class="title">Size</p>
+                 <div class="block active" style="margin-left:0">5ml</div>
+                 <div class="block">10ml</div>
+                 <div class="block">20ml</div>
+                 <div class="block">50ml</div>
+        </div>
+
+        <div style="width:33%; float:left;">
+            <p class="title">Quantity</p>
+            <select class="blockQ">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+            </select>
+   </div>
+
+   <div style="width:33%; float:left;">
+    <p class="title">Details</p>
+    <p class="brand" style="margin-top:30px"><strong>{{type}} </strong>| {{skintypes}} skin</p>
+</div>
+
+<div class="line" style="margin-top: 180px;"></div>
+
+<div class="button">ADD TO CART</div>
+
+    </div>
+   
+</div>

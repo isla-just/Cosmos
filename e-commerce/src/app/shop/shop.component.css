@@ -1,0 +1,54 @@
+body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    overflow:auto;
+}
+
+/* .container-fluid{
+    width:100%;
+    height:100vh;
+    background-image:url(../../assets/header1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+} */
+
+.headerImg{
+    width:100%;
+    height:40vh;
+    background-image:url(../../assets/headerNone.png);
+    background-position: center;
+    background-size: cover;
+    padding:0;
+    margin:0;
+    z-index: 0;
+    overflow:hidden;
+}
+h1{
+    color:white;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 15vh;
+    color:white;
+    line-height:25px;
+    padding: 0;
+}
+
+.button{
+    background-color: #1a1a1a;
+    color:white;
+    padding:10px;
+    height:auto;
+   letter-spacing: 4px;
+   margin-top:35px;
+}
+
+.button:hover{
+border:2px solid black;
+}
