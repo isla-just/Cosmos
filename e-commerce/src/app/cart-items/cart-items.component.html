@@ -1,41 +1,45 @@
 <app-alt-nav></app-alt-nav>
 
 <div style="width:70%; float:left;">
-<div class="item-card">
-    <div class="image"></div>
-    <div style="float:left; width:65%">
-        <h1>Hydrating face serum</h1>
+<div class="item-card card1">
+    <div class="image"><img src={{image1}} style="width:100%; object-fit: contain;"/></div>
+    <div class="content-card">
+        <div class="close1 firstClose"></div>
+        <h1>{{name1}}</h1>
         <div class="line"></div>
         <div class="half1">
             Size<br>Details<br>Quantity
         </div>
         <div class="half2">
-            40ml<br>Serum | Dry skin<br>1
+            {{size1}}<br>{{type1}} | {{skin1}} skin<br>1
         </div>
         <div class="line" style="margin-top:140px"></div>
 
-        <div class="price">R200</div>
+        <div class="price">{{price1}}</div>
     </div>
     
 </div>
 
-<div class="item-card">
-    <div class="image"></div>
-    <div style="float:left; width:65%">
-        <h1>Hydrating face serum</h1>
+<div class="item-card card2">
+    <div class="image"><img src={{image2}} style="width:100%; object-fit: contain;"/></div>
+    <div class="content-card">
+        <div class="close1 secondClose"></div>
+        <h1>{{name2}}</h1>
         <div class="line"></div>
         <div class="half1">
             Size<br>Details<br>Quantity
         </div>
         <div class="half2">
-            40ml<br>Serum | Dry skin<br>1
+            {{size2}}<br>{{type2}} | {{skin2}} skin<br>1
         </div>
         <div class="line" style="margin-top:140px"></div>
 
-        <div class="price">R200</div>
+        <div class="price">{{price2}}</div>
     </div>
     
 </div>
+
+<div class="item-card noItems"><h1>You have no items in your cart</h1></div>
 
 </div>
 <div style="width:30%; float:left;">
@@ -43,9 +47,9 @@
 
         <h1 style="margin:0; padding:0">Apply a promo</h1>
         <div class="line" style="margin-top:20px; margin-left:0; padding:0"></div>
-        <input class="join" placeholder="Email"/>
+        <input class="join" placeholder="Promo code"/>
 
-        <div class="join-btn">Sign up</div>
+        <div class="join-btn" id="promo">Apply promo</div>
     </div>
 
     <div class="promo">
@@ -56,12 +60,20 @@
             Subtotal<br>Delivery Fee
         </div>
         <div class="half2" style="text-align: right;">
-            R200<br>R60
+            R1685<br>R60
         </div>
 
         <div class="line" style="margin-top:100px; margin-left:0; padding:0"></div>
-        <h1 style="text-align: right; margin-left:0;">R200</h1>
+        <h1 class="totalPrice" style="text-align: right; margin-right:50px;">R1745</h1>
 
         <div class="button">PROCEED TO CHECKOUT</div>
+    </div>
+</div>
+
+<div class="popup2">
+    <div class="card">
+        <div class="closePromo"></div>
+        <h5>COSMOS</h5>
+        <div class="deal">THIS PROMO CODE IS INVALID</div>
     </div>
 </div>

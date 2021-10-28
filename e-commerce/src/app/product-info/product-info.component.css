@@ -5,6 +5,10 @@ body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col, .container-fluid{
     overflow:auto;
 }
 
+a:hover{
+    text-decoration: none;
+}
+
 .image-container{
     width:30%;
     height: 70vh;
@@ -109,4 +113,10 @@ select{
    letter-spacing: 4px;
    margin-top:35px;
    text-align: center;
+}
+
+.button:hover{
+    background-color: transparent;
+    border:2px solid black;
+    color:black;
 }

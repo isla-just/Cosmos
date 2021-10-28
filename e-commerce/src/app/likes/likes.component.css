@@ -5,6 +5,10 @@ body, h1, h2,h3, h4, h5, h6,a,div,p, .row, .container, .col, .container-fluid{
     overflow:auto;
 }
 
+a:hover{
+    text-decoration: none;
+}
+
 .container{
     width:100%;
     height:auto;

@@ -37,6 +37,9 @@ setInterval(function() {
   .appendTo('#slideshow');
 }, 7000);
 
+$(".popup2").hide();
+$(".noItems").hide();
+
 $(".ingredients").on("click", function(){
   $(".showIngredients").fadeIn();
   $(".ingredients").hide();
@@ -46,6 +49,39 @@ $(".block").on("click", function(){
   $(".block").removeClass("active")
   $(this).toggleClass("active");
 });
+
+$(".close").on("click", function(){
+  $(".popup").fadeOut();
+});
+
+$(".closePromo").on("click", function(){
+  $(".popup2").fadeOut();
+});
+
+$("#promo").on("click", function(){
+ $(".popup2").fadeIn();
+});
+
+$(".firstClose").on("click", function(){
+$(".card1").hide();
+$(".totalPrice").text("R695")
+
+  $(".close1").on("click", function(){
+    $(".totalPrice").text("R0");
+    $(".noItems").fadeIn();
+  });
+});
+
+$(".secondClose").on("click", function(){
+$(".card2").hide();
+$(".totalPrice").text("R1110")
+
+$(".close1").on("click", function(){
+    $(".totalPrice").text("R0");
+    $(".noItems").fadeIn();
+  });
+});
+
     });
     
     </script>

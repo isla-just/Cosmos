@@ -16,6 +16,7 @@ import { ProductInfoComponent } from './product-info/product-info.component';
 import { AltNavComponent } from './alt-nav/alt-nav.component';
 import { CartComponent } from './cart/cart.component';
 import { CartItemsComponent } from './cart-items/cart-items.component';
+import { PreloaderComponent } from './preloader/preloader.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,8 @@ import { CartItemsComponent } from './cart-items/cart-items.component';
     ProductInfoComponent,
     AltNavComponent,
     CartComponent,
-    CartItemsComponent
+    CartItemsComponent,
+    PreloaderComponent
   ],
   imports: [
     BrowserModule,
